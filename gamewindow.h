@@ -12,7 +12,7 @@
 #include <QPushButton>
 #include <QMainWindow>
 #include "deck.h"
-#include "Players.h"
+#include "players.h"
 #include <QSpinBox>
 #include <QSlider>
 #include <QTimer>

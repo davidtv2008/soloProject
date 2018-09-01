@@ -7,7 +7,7 @@
 #include <QLabel>
 #include <QVBoxLayout>
 #include <iostream>
-#include <String>
+#include <string>
 #include <sstream>
 #include <vector>
 #include <QVector>
